@@ -1,0 +1,48 @@
+Last login: Mon Jun 12 15:41:34 on ttys005
+kajiwaragenki@kajiwaramotokinoMacBook-Air ~ % git add hello.txt
+fatal: not a git repository (or any of the parent directories): .git
+kajiwaragenki@kajiwaramotokinoMacBook-Air ~ % git init
+Initialized empty Git repository in /Users/kajiwaragenki/.git/
+kajiwaragenki@kajiwaramotokinoMacBook-Air ~ % vi hello.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kajiwars
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT --
